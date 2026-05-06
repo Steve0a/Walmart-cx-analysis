@@ -1,7 +1,7 @@
 # 🛒 Walmart Customer Experience Analysis
 ### Turning Customer Reviews into Actionable Insights
 
-![Walmart Store](images/Image-of-Walmart-Store-2.webp)
+![Walmart Store](images/Image of Walmart Store 2.webp)
 
 ---
 
