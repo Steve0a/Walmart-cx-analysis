@@ -1,7 +1,7 @@
 # 🛒 Walmart Customer Experience Analysis
 ### Turning Customer Reviews into Actionable Insights
 
-![Walmart Store](images/Image-of-Walmart-Store-2.jpg)
+![Walmart Store](images/Image-of-Walmart-Store-2.webp)
 
 ---
 
@@ -15,7 +15,7 @@ This project analyzes customer reviews from **Walmart Store #4553 (Kansas City, 
 
 Using Python and text analytics, I transformed unstructured review data into clear insights that help improve operations, staff performance, and customer satisfaction.
 
-![Walmart Store Workflow](images/Walmart-Super-Store-Customer_Workflow.jpg)
+![Walmart Store Workflow](images/Walmart-Super-Store-Customer_Workflow.png)
 
 ---
 
